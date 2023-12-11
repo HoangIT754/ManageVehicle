@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ManageGarage/1.0.0": {
+        "runtime": {
+          "ManageGarage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManageGarage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

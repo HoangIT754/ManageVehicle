@@ -1,0 +1,14 @@
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\bin\Debug\net6.0\ManageGarage.exe
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\bin\Debug\net6.0\ManageGarage.deps.json
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\bin\Debug\net6.0\ManageGarage.runtimeconfig.json
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\bin\Debug\net6.0\ManageGarage.dll
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\bin\Debug\net6.0\ManageGarage.pdb
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\ManageGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\ManageGarage.AssemblyInfoInputs.cache
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\ManageGarage.AssemblyInfo.cs
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\ManageGarage.csproj.CoreCompileInputs.cache
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\ManageGarage.dll
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\refint\ManageGarage.dll
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\ManageGarage.pdb
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\ManageGarage.genruntimeconfig.cache
+C:\Users\truon\source\repos\ManageGarage\ManageGarage\obj\Debug\net6.0\ref\ManageGarage.dll
